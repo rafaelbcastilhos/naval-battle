@@ -1,0 +1,25 @@
+body{
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+table{
+  text-decoration: none;
+  text-align: center;
+  border: 3px solid #ffffff;
+  border-collapse: collapse;
+}
+
+th, td {
+  background-color: #000000;
+  padding: 10px;
+  text-align: left;
+}
+
+h1{
+  font-size: 22px;
+  text-align: left;
+}
+
